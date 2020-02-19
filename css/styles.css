@@ -1,0 +1,48 @@
+body{
+  background-color: #ffc2c2;
+  font-family:'Rancho', cursive;
+  text-align: center
+
+
+}
+h1,h2,h3,h4,h5,h6{
+  padding: 0;
+  color: #010a43;
+  margin:0;
+}
+#title
+{
+  font-size: 4rem;
+
+}
+
+.player-title
+{
+  display: inline-block;
+  width: 15%;
+  padding:4% 8%;
+}
+.img1{
+  width: 80%;
+  filter: drop-shadow(10px 10px 10px #ff2e63);
+}
+
+
+.img2{
+  width:80%;
+  filter: drop-shadow(10px 10px 10px #ff2e63);
+}
+.dice-bg
+{
+  display: inline-block;
+  /* background-color: #ff2e63; */
+  width: 25%;
+  margin: 0 3%;
+  border-radius: 2%;
+
+
+}
+#footer
+{
+  padding-top: 10%;
+}
